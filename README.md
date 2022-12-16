@@ -1,6 +1,6 @@
 #Curso de Despliegue de Aplicaciones Web
 -------------------------------------------------------------------------------------------
-----------------------------     TEMARIO DEL CURSO     ------------------------------------
+-  TEMARIO DEL CURSO     -
 -------------------------------------------------------------------------------------------
 - Prueba Inicial: 
     - Prueba de conceptos básicos de Sistemas Informáticos
